@@ -16,7 +16,7 @@ Web publicada (GitHub Pages): https://aitoreg.github.io/SPA-ANDER-AITOR-AINARA-A
 
 Repositorio de GitHub: https://github.com/AitorEg/SPA-ANDER-AITOR-AINARA-ASIER
 
-* **Tablero Kanban (PDF):** [Ver / Descargar Tablero Kanban (PDF)](./Biker_SPA.pdf)
+Tablero Kanban (PDF): [Ver / Descargar Tablero Kanban (PDF)](./Biker_SPA.pdf)
 
 Autores
 
